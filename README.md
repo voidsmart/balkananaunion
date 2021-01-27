@@ -1,2 +1,3 @@
-# Balkan Union Bot
-Bot created by Void
+# Modbot
+To set up the bot,
+simply type npm install!
